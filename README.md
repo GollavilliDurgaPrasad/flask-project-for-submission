@@ -41,7 +41,7 @@ marks-calculator/
 ```bash
 git clone https://github.com/yourusername/marks-calculator.git
 
-Open your browser and go to 🔗 https://flask-project-for-submission.onrender.com/
+🔗 https://flask-project-for-submission.onrender.com/
 
 📝 Usage
 Enter the marks for each subject in the input fields.
